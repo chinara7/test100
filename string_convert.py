@@ -17,6 +17,7 @@ x, y = 3, 10
 
 name1 = "GuNel yaxsi Qizdir"
 # name1[0] = "K"
+name2 = "Aysel"
 print(name1)
 c = name1.lower()
 print(c)
